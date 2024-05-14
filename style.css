@@ -38,8 +38,9 @@ input{
     margin-top: 50px;
     border-radius: 10px;
     font-size: medium;
-    height: 30px;
-    width: 350px;
+    height: 40px;
+    width: 400px;
+
 }
 .strikethrough {
     text-decoration:line-through;
